@@ -21,9 +21,9 @@ This program is a command-line tool and does not require deployment. You can run
 License
 This Minecraft Mod Launcher Log Analyzer is released under the MIT License. Feel free to modify and distribute it according to the terms of the license.
 
-Author
+Author:
 This program was created by gyu29.
 
-For questions or support, please contact gyu29 @ discord.
+For questions or support, please contact: gyu29 @ discord.
 
 Enjoy analyzing your Minecraft Mod Launcher logs!
